@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name":" Celulares",
+        "price": 200,
+        "image": "https://png.pngtree.com/png-clipart/20230812/original/pngtree-handphone-logo-icon-vector-illustration-design-cellphone-cellular-media-vector-picture-image_10484539.png",
+        "cantidad":20
+    },
+    {
+        "id": 2,
+        "name":" Variedad de audifonos",
+        "price": 250,
+        "image": "https://www.tienda.microtech.com.co/1775-large_default/audifonos-havit-bt-tw929.jpg",
+            "cantidad":20
+    },
+    {
+        "id": 3,
+        "name":" Parlantes",
+        "price": 290,
+        "image": "https://cdn.coordiutil.com/imagen-parlantes_cabina_jyr_j5159_recargable_8pul-2278587-0-0-0-100.jpg",
+        "cantidad":20
+    },
+    {
+        "id": 4,
+        "name":" Equipos de seguridad",
+        "price": 200,
+        "image": "https://www.fbingenieria.com.co/wp-content/uploads/2022/05/camaras-cctv.png",
+        "cantidad":20
+    },
+    {
+        "id": 5,
+        "name":" Accesorios para tu celular",
+        "price": 300,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMV4jUkVYPrxKHP3niPjn9EL2nxBdpnqKZBkVUi=w1080-h608-p-k-no-v0",
+        "cantidad":20
+    },
+    {
+        "id": 6,
+        "name":" Cargadores para celular",
+        "price": 200,
+        "image": "https://armoto.vtexassets.com/arquivos/ids/162821/Cargador-Motorola-TurboPower-Tipo-C-C-30W-24c.png?v=637955770071470000",
+        "cantidad":20
+    },
+    {
+        "id": 7,
+        "name":" Todo para tu carro",
+        "price": 200,
+        "image": "https://m.media-amazon.com/images/I/61PwfA5KTeL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "cantidad":20
+    },
+    {
+        "id": 8,
+        "name":" Accesorios para Pc",
+        "price": 200,
+        "image": "https://hitcolombia.co/cdn/shop/collections/accesorios-para-computador-197309_1200x1200.jpg?v=1633365390",
+        "cantidad":20
+    },
+    {
+        "id": 9,
+        "name":" Relojs",
+        "price": 200,
+        "image": "https://hitcolombia.co/cdn/shop/collections/accesorios-para-computador-197309_1200x1200.jpg?v=1633365390",
+        "cantidad":20
+    }
+]

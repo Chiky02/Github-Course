@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name":" Samsung A10",
+        "price": 520000,
+        "image": "https://m.media-amazon.com/images/I/31Vsp0zfTrL.jpg",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+        
+    },
+    {
+        "id": 2,
+        "name":" Samsung A20",
+
+        "price": 250,
+        "image": "https://carulla.vtexassets.com/arquivos/ids/2614143/celular-samsung-a20-32gb-rojo.jpg?v=637397086231600000",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    },
+    {
+        "id": 3,
+        "name":" Samsung A30",
+
+        "price": 290,
+        "image": "https://cdn.coordiutil.com/imagen-parlantes_cabina_jyr_j5159_recargable_8pul-2278587-0-0-0-100.jpg",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    },
+    {
+        "id": 4,
+        "name":" Samsung A40",
+
+        "price": 200,
+        "image": "https://www.fbingenieria.com.co/wp-content/uploads/2022/05/camaras-cctv.png",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    },
+    {
+        "id": 5,
+        "name":" Samsung A50",
+
+        "price": 760000,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMV4jUkVYPrxKHP3niPjn9EL2nxBdpnqKZBkVUi=w1080-h608-p-k-no-v0",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    },
+    {
+        "id": 6,
+        "name":"Xiaomi redmi note 7",
+        "price": 200,
+        "image": "https://armoto.vtexassets.com/arquivos/ids/162821/Cargador-Motorola-TurboPower-Tipo-C-C-30W-24c.png?v=637955770071470000",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    },
+    {
+        "id": 7,
+        "name":"Xiaomi redmi note 8",
+        "price": 200,
+        "image": "https://m.media-amazon.com/images/I/61PwfA5KTeL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    },
+    {
+        "id": 8,
+        "name":"Xiaomi redmi note 9",
+        "price": 200,
+        "image": "https://hitcolombia.co/cdn/shop/collections/accesorios-para-computador-197309_1200x1200.jpg?v=1633365390",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    },
+    {
+        "id": 9,
+        "name":"Xiaomi redmi note 10s",
+        "price": 200,
+        "image": "https://hitcolombia.co/cdn/shop/collections/accesorios-para-computador-197309_1200x1200.jpg?v=1633365390",
+        "desciption":"this is the",
+        "colors":"",
+        "cantidad":20
+    }
+]
